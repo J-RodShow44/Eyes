@@ -1,4 +1,4 @@
-#Eyes - Cursor Tracking Project
+# Eyes - Cursor Tracking Project
 
 This project showcases and example of animating html elements and updating styling dynamically to simulate an eye that follows the user's cursor around the screen. 
 
